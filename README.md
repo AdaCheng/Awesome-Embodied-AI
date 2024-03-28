@@ -24,9 +24,9 @@
 ## Large Language Models (LLMs)
 
 ## Vision-Language Models (VLMs)
-- Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://proceedings.mlr.press/v139/radford21a)
 
 ### General Models
+- Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://proceedings.mlr.press/v139/radford21a)
 
 ### High-Resolution
 - OtterHD: A High-Resolution Multi-modality Model [[paper]](https://arxiv.org/pdf/2311.04219)
