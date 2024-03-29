@@ -26,7 +26,25 @@
 ## Vision-Language Models (VLMs)
 
 ### General Models
+- BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation [[paper]](https://proceedings.mlr.press/v162/li22n.html)
+- BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models [[paper]](https://proceedings.mlr.press/v202/li23q.html)
 - Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://proceedings.mlr.press/v139/radford21a)
+- Visual Instruction Tuning [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html)
+- Improved Baselines with Visual Instruction Tuning [[paper]](https://arxiv.org/abs/2310.03744)
+- Flamingo: a Visual Language Model for Few-Shot Learning [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
+- Otter: A Multi-Modal Model with In-Context Instruction Tuning [[paper]](https://arxiv.org/abs/2306.05425)
+- LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention [[paper]](https://arxiv.org/abs/2303.16199)
+- PandaGPT: One Model To Instruction-Follow Them All [[paper]](https://arxiv.org/abs/2305.16355)
+- OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models [[paper]](https://arxiv.org/abs/2308.01390)
+- InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html)
+- mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality [[paper]](https://arxiv.org/abs/2304.14178)
+- MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [[paper]](https://arxiv.org/abs/2304.10592)
+- ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [[paper]](https://arxiv.org/abs/2311.12793)
+- World Model on Million-Length Video And Language With Blockwise RingAttention [[paper]](https://arxiv.org/abs/2402.08268)
+- VideoChat: Chat-Centric Video Understanding [[paper]](https://arxiv.org/abs/2305.06355)
+- Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [[paper]](https://arxiv.org/abs/2306.02858)
+- Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models [[paper]](https://arxiv.org/abs/2306.05424)
+- Video-LLaVA: Learning United Visual Representation by Alignment Before Projection [[paper]](https://arxiv.org/abs/2311.10122)
 
 ### High-Resolution
 - OtterHD: A High-Resolution Multi-modality Model [[paper]](https://arxiv.org/pdf/2311.04219)
