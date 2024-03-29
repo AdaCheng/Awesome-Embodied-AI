@@ -1,4 +1,6 @@
-# Embodied Artificial Intelligence (EAI)
+# Awesome Embodied AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**Contributors:** todo
 
 ## Survey
 - Foundation Models in Robotics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/pdf/2312.07843)
@@ -17,6 +19,12 @@
 
 
 ## Large Language Models (LLMs)
+- Awesome-LLM [[project]](https://github.com/Hannibal046/Awesome-LLM)
+- GPT-3: Language Models are Few-Shot Learners [[paper]](https://arxiv.org/abs/2005.14165)
+- GPT-4: GPT-4 Technical Report [[project]](https://openai.com/research/gpt-4)
+- LLaMA: Open and Efficient Foundation Language Models [[paper]](https://arxiv.org/abs/2302.13971)
+- Llama 2: Open Foundation and Fine-Tuned Chat Models [[paper]](https://arxiv.org/abs/2307.09288)
+- Mistral 7B [[paper]](https://arxiv.org/pdf/2310.06825.pdf%5D%5D%3E)
 
 ## Vision-Language Models (VLMs)
 
@@ -81,6 +89,7 @@
 - Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.html)
 - Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives [[paper]](https://arxiv.org/abs/2311.18259)
 - BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://arxiv.org/abs/2403.09227)
+- Ego4D: Around the World in 3,000 Hours of Egocentric Video [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.html)
 
 ### Representing Learning
 - Language-Driven Representation Learning for Robotics [[paper]](https://arxiv.org/abs/2302.12766)
@@ -102,4 +111,3 @@
 
 
 ## Benchmarks
-
