@@ -49,6 +49,10 @@
 - AI2-THOR: An Interactive 3D Environment for Visual AI [[paper]](https://arxiv.org/abs/1712.05474)
 - RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.html)
 - BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://proceedings.mlr.press/v205/li23a.html)
+- ThreeDWorld：A High-Fidelity, Multi-Modal Platform for Interactive Physical Simulation [[paper]]("https://arxiv.org/abs/2007.04954")
+- LIBERO: Benchmarking Knowledge Transfer in Lifelong Robot Learning [[paper]](https://arxiv.org/pdf/2306.03310.pdf)
+- ProcTHOR: Large-Scale Embodied AI Using Procedural Generation [[paper]](https://arxiv.org/abs/2206.06994)
+- PyBullet：physics simulation for games, visual effects, robotics and reinforcement learning. [[paper]](https://pybullet.org/wordpress/)
 
 ## Video Data
 - Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.html)
