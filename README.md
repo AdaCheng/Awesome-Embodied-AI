@@ -6,18 +6,6 @@
 - Foundation Models in Robotics: Applications, Challenges, and the Future [[paper]](https://arxiv.org/pdf/2312.07843)
 - Foundation Models for Decision Making: Problems, Methods, and Opportunities [[paper]](https://arxiv.org/pdf/2303.04129)
 
-## Simulators
-- VirtualHome: Simulating Household Activities via Programs [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.html)
-- Gibson Env: Real-World Perception for Embodied Agents [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_Gibson_Env_Real-World_CVPR_2018_paper.html)
-- iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks [[paper]](https://arxiv.org/abs/2108.03272)
-- Habitat: A Platform for Embodied AI Research [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.html)
-- Habitat 2.0: Training Home Assistants to Rearrange their Habitat [[paper]](https://proceedings.neurips.cc/paper/2021/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html)
-- Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots [[paper]](https://arxiv.org/abs/2310.13724)
-- AI2-THOR: An Interactive 3D Environment for Visual AI [[paper]](https://arxiv.org/abs/1712.05474)
-- RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.html)
-- BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://proceedings.mlr.press/v205/li23a.html)
-
-
 ## Large Language Models (LLMs)
 - Awesome-LLM [[project]](https://github.com/Hannibal046/Awesome-LLM)
 - GPT-3: Language Models are Few-Shot Learners [[paper]](https://arxiv.org/abs/2005.14165)
@@ -51,10 +39,30 @@
 - Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models [[paper]](https://arxiv.org/abs/2306.05424)
 - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection [[paper]](https://arxiv.org/abs/2311.10122)
 
-### Egocentric
-- 
+## Simulators
+- VirtualHome: Simulating Household Activities via Programs [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.html)
+- Gibson Env: Real-World Perception for Embodied Agents [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_Gibson_Env_Real-World_CVPR_2018_paper.html)
+- iGibson 2.0: Object-Centric Simulation for Robot Learning of Everyday Household Tasks [[paper]](https://arxiv.org/abs/2108.03272)
+- Habitat: A Platform for Embodied AI Research [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Savva_Habitat_A_Platform_for_Embodied_AI_Research_ICCV_2019_paper.html)
+- Habitat 2.0: Training Home Assistants to Rearrange their Habitat [[paper]](https://proceedings.neurips.cc/paper/2021/hash/021bbc7ee20b71134d53e20206bd6feb-Abstract.html)
+- Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots [[paper]](https://arxiv.org/abs/2310.13724)
+- AI2-THOR: An Interactive 3D Environment for Visual AI [[paper]](https://arxiv.org/abs/1712.05474)
+- RoboTHOR: An Open Simulation-to-Real Embodied AI Platform [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Deitke_RoboTHOR_An_Open_Simulation-to-Real_Embodied_AI_Platform_CVPR_2020_paper.html)
+- BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://proceedings.mlr.press/v205/li23a.html)
 
-### High-Resolution
+## Video Data
+- Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.html)
+- Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100 [[paper]](https://link.springer.com/article/10.1007/s11263-021-01531-2)
+- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives [[paper]](https://arxiv.org/abs/2311.18259)
+- BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://arxiv.org/abs/2403.09227)
+- Ego4D: Around the World in 3,000 Hours of Egocentric Video [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.html)
+- Charades-Ego: A Large-Scale Dataset of Paired Third and First Person Videos [[paper]](https://arxiv.org/abs/1804.09626)
+- Delving into Egocentric Actions [[paper]](https://openaccess.thecvf.com/content_cvpr_2015/html/Li_Delving_Into_Egocentric_2015_CVPR_paper.html)
+
+## Egocentric
+- Ego-Topo: Environment Affordances From Egocentric Video [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Nagarajan_Ego-Topo_Environment_Affordances_From_Egocentric_Video_CVPR_2020_paper.html)
+
+## High-Resolution
 - OtterHD: A High-Resolution Multi-modality Model [[paper]](https://arxiv.org/pdf/2311.04219)
 
 ## EAI with Foundation Models
@@ -84,12 +92,6 @@
 
 
 ## Embodied Multi-modal Language Models
-
-### Video Data
-- Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.html)
-- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives [[paper]](https://arxiv.org/abs/2311.18259)
-- BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://arxiv.org/abs/2403.09227)
-- Ego4D: Around the World in 3,000 Hours of Egocentric Video [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.html)
 
 ### Representing Learning
 - Language-Driven Representation Learning for Robotics [[paper]](https://arxiv.org/abs/2302.12766)
