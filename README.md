@@ -16,11 +16,6 @@
 - BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://proceedings.mlr.press/v205/li23a.html)
 
 
-## Data
-
-### Video Data
-- Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.html)
-
 ## Large Language Models (LLMs)
 
 ## Vision-Language Models (VLMs)
@@ -47,6 +42,9 @@
 - Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding [[paper]](https://arxiv.org/abs/2306.02858)
 - Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models [[paper]](https://arxiv.org/abs/2306.05424)
 - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection [[paper]](https://arxiv.org/abs/2311.10122)
+
+### Egocentric
+- 
 
 ### High-Resolution
 - OtterHD: A High-Resolution Multi-modality Model [[paper]](https://arxiv.org/pdf/2311.04219)
@@ -79,12 +77,18 @@
 
 ## Embodied Multi-modal Language Models
 
+### Video Data
+- Scaling Egocentric Vision: The EPIC-KITCHENS Dataset [[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Dima_Damen_Scaling_Egocentric_Vision_ECCV_2018_paper.html)
+- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives [[paper]](https://arxiv.org/abs/2311.18259)
+- BEHAVIOR-1K: A Human-Centered, Embodied AI Benchmark with 1,000 Everyday Activities and Realistic Simulation [[paper]](https://arxiv.org/abs/2403.09227)
+
 ### Representing Learning
 - Language-Driven Representation Learning for Robotics [[paper]](https://arxiv.org/abs/2302.12766)
 - R3M: A Universal Visual Representation for Robot Manipulation [[paper]](https://arxiv.org/abs/2203.12601)
 - VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training [[paper]](https://arxiv.org/abs/2210.00030)
 - LIV: Language-Image Representations and Rewards for Robotic Control [[paper]](https://proceedings.mlr.press/v202/ma23b.html)
 - Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation [[paper]](https://proceedings.mlr.press/v164/nair22a.html)
+- DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning [[paper]](https://arxiv.org/abs/2402.18137)
 
 ### End-to-End
 - Masked Visual Pre-training for Motor Control [[paper]](https://arxiv.org/abs/2203.06173)
@@ -95,3 +99,7 @@
 - PaLM-E: An Embodied Multimodal Language Model [[paper]](https://arxiv.org/abs/2303.03378)
 - PaLI-X: On Scaling up a Multilingual Vision and Language Model [[paper]](https://arxiv.org/abs/2305.18565)
 - A Generalist Agent [[paper]](https://arxiv.org/abs/2205.06175)
+
+
+## Benchmarks
+
